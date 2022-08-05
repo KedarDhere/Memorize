@@ -22,11 +22,5 @@ struct Themes {
         var numberOfPairOfcards: Int
         var color: String
     
-//        init(nameOftheme: String, emojis: Array<String>, numberOfPairOfcards: Int, color: String){
-//            self.nameOftheme = nameOftheme
-//            self.emojis = emojis
-//            self.numberOfPairOfcards = numberOfPairOfcards > emojis.count ? emojis.count : numberOfPairOfcards
-//            self.color = color
-//        }
     }
 }
